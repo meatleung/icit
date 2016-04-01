@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">查货神器</string>
+    <string name="action_settings">设置</string>
+    <string name="searchhint">请输入IC型号</string>
+    <string name="search">搜索</string>
+</resources>
